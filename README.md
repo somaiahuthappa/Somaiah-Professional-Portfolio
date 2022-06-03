@@ -9,7 +9,7 @@ A digital portfolio created for potential employers.
 
 ## Links
 - https://github.com/somaiahuthappa/professional-portfolio
-- https://somaiahuthappa.github.io/professional-portfolio/
+- https://somaiahuthappa.github.io/Somaiah-Professional-Portfolio/
 
 ## Screenshots
 - ![This is a screenshot](/assets/images/screenshot-1.PNG)
